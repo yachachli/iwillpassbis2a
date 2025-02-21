@@ -1,5 +1,5 @@
-import Image from "next/image";
-import Link from "next/link";
+// import Image from "next/image";
+// import Link from "next/link";
 
 export default function Home() {
   return (
@@ -533,7 +533,7 @@ export default function Home() {
           </p>
           <ul className="list-disc pl-6 mb-4">
             <li>
-              <strong>Read Carefully:</strong> Ensure you understand every part of the question. Look for keywords like "oxidation," "reduction," or "phosphorylation."
+              <strong>Read Carefully:</strong> Ensure you understand every part of the question. Look for keywords like &quot;oxidation,&quot; &quot;reduction,&quot; or &quot;phosphorylation.&quot;
             </li>
             <li>
               <strong>Break It Down:</strong> Identify the underlying concept (e.g., redox balance, energy coupling) before choosing your answer.
